@@ -6,10 +6,7 @@
 
 package snake;
 
-/**
- *
- * @author wkranz
- */
+
 public interface Updateable {
     void update();
 }
