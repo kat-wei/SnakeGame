@@ -10,9 +10,9 @@ package snake;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.paint.Color;
 
-/**
+//**
  *
- * @author wkranz
+ * @author 18_kat_18
  */
 public interface Renderable {
     void draw(Canvas canvas, Color color);
